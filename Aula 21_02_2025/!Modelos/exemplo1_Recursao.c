@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Se x == 0, FAT(0) = 1;
+// Senão, FAT(x) = x * FAT(x-1);
+
 void crescente(int atual, int parada)
 {
     if (atual <= parada)
