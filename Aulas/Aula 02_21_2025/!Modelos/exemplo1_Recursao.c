@@ -29,6 +29,5 @@ int main()
     printf("##############\n");
     decrescente(n);
     
-
     return 0;
 }
