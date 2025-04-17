@@ -3,6 +3,7 @@
         "cmath": "c",
         "string.h": "c",
         "stdlib.h": "c",
-        "math.h": "c"
+        "math.h": "c",
+        "vagoes1c": "c"
     }
 }
