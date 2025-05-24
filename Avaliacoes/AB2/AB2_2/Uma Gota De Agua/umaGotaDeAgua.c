@@ -46,7 +46,6 @@ int main()
             return 0;
         }
 
-
         if (valor == 1)
         {
             coluna++;
